@@ -8,7 +8,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N837PBF)
 
-Here are some ideas to get you started:
+### Here are few things about me and my recent interests:
 
 - 🔭 I’m currently working on *My CyberSec Skills*
 - 🌱 I’m currently learning *Offensive Security and Penetration Testing*
