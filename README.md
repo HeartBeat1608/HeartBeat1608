@@ -1,6 +1,6 @@
 <!-- ## <img src="https://d33wubrfki0l68.cloudfront.net/61153907292ee2eadefde6627bebef410ef3339e/ff66e/assets/profile.jpg" width="120px" height="auto" /> -->
 
-[My codewars stats](https://www.codewars.com/users/HeartBeat1608/badges/large)
+[![My codewars stats](https://www.codewars.com/users/HeartBeat1608/badges/large)](https://www.codewars.com/users/HeartBeat1608)
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=HeartBeat1608&show_icons=true&theme=nord&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
