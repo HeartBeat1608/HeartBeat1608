@@ -12,11 +12,11 @@
 
 ### Here are few things about me and my recent interests:
 
-- 🔭 I’m currently working on *My CyberSec Skills*
-- 🌱 I’m currently learning *Offensive Security and Penetration Testing*
+- 🔭 I’m currently working on *Server Side Algorithmic Design Skills*
+- 🌱 I’m currently learning *NestJS and React Native*
 - 👯 I’m looking to collaborate on *Anything within my domain of knowledge*
-- 🤔 I’m looking for help with **CyberSecurity Stuff**
+- 🤔 I’m looking for help with **Algorithms and Better Problem Solving**
 - 💬 Ask me about **Anything. Let's share knowledge**
-- 📫 How to reach me: [@Mail](mailto:durgeshp1608@gmail.com) | [@LinkedIn](https://www.linkedin.com/in/durgesh-pandey-347091163/)
+- 📫 How to reach me: [@Mail](mailto:durgeshp1608@gmail.com) | [@LinkedIn](https://www.linkedin.com/in/the-durgesh-pandey/)
 - 😄 Pronouns: **Lost Kingdom of Solace**
-- ⚡ Fun fact: **I usually forget things very easily, and once i forgot that my phone was in my backpocket while searching for it all over the place.**
+- ⚡ Fun fact: **I usually forget things very easily, If I forget, don't mind reminding me.**
