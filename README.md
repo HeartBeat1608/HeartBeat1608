@@ -6,7 +6,7 @@
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=HeartBeat1608&show_icons=true&theme=nord&include_all_commits=false&hide=stars,prs,issues,contribs&hide_rank=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HeartBeat1608&theme=nord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HeartBeat1608&theme=nord&row=1&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HeartBeat1608&theme=nord)](https://git.io/streak-stats) 
 
