@@ -8,10 +8,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HeartBeat1608&theme=nord&row=1&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HeartBeat1608&theme=nord)](https://git.io/streak-stats) -->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=HeartBeat1608&theme=nord)](https://git.io/streak-stats) -->
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
-
 ### Here are few things about me and my recent interests:
 
 - 🔭 I’m currently working on *Server Side Algorithmic Design Skills*
