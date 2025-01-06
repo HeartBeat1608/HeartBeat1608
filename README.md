@@ -10,6 +10,7 @@
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HeartBeat1608&theme=nord)](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=HeartBeat1608&theme=nord)](https://git.io/streak-stats) -->
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
 
 ### Here are few things about me and my recent interests:
 
